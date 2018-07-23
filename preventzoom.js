@@ -10,3 +10,5 @@ $(window).bind('mousewheel DOMMouseScroll', function(event)
          }
     }
 });
+
+/*https://stackoverflow.com/questions/33083484/on-ctrlmousewheel-event/33083910#33083910*/
